@@ -2,7 +2,7 @@
 
 
 
-#Old
+# Old
 
 - Runaways
 - Cloak & Dagger
@@ -36,7 +36,7 @@
 - Westworld
 
 
-#Current
+# Current
 
 - Arcane
 - Rick & Morty
